@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Costs-React/static/css/main.9102bf6e.css",
+    "main.js": "/Costs-React/static/js/main.2fdfcc0d.js",
+    "static/media/savings.svg": "/Costs-React/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/Costs-React/index.html",
+    "static/media/loading.svg": "/Costs-React/static/media/loading.cb532fb55bf84419963cc55778925f86.svg",
+    "main.9102bf6e.css.map": "/Costs-React/static/css/main.9102bf6e.css.map",
+    "main.2fdfcc0d.js.map": "/Costs-React/static/js/main.2fdfcc0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9102bf6e.css",
+    "static/js/main.2fdfcc0d.js"
+  ]
+}
